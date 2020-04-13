@@ -1,3 +1,3 @@
 # Unity-With-Hololens
 
-Still in process of uploading assets within the Unity project and assets from the Mixed Reality Toolkit (over 22k files in total).
+Note: Only contain the project build file and not the Microsoft Hololens assets imported and used in the build.
